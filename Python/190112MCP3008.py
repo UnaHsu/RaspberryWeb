@@ -20,4 +20,4 @@ if __name__ == "__name__":
     window = Tk();
     window.title("MCP3008");
     root = App(window);
-    window.mainloop(); 
+    window.mainloop();   
